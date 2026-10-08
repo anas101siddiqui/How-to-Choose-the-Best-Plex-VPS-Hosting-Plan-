@@ -264,6 +264,7 @@ The right Plex VPS plan comes from four honest questions: **how you stream**, **
 For most households, a mid range plan with 4 to 6 vCPU gives the best balance, while smaller libraries do well on an entry plan. If you want a ready made option, QloudHost's [Plex VPS Hosting](https://qloudhost.com/offshore-vps-hosting/plex) covers these needs with NVMe storage, AMD EPYC processors, a 1 Gbps+ network, and a 14 day money-back guarantee, starting at **$17.99 per month** on the 2-year plan.
  
 <div align="center">
+
 ### 🚀 Ready to size your own Plex server?
  
 [![Get Plex VPS](https://img.shields.io/badge/Get%20Started-QloudHost%20Plex%20VPS-2E7D32?style=for-the-badge)](https://qloudhost.com/offshore-vps-hosting/plex)
